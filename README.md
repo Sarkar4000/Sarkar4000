@@ -2,9 +2,9 @@
 
 # Sandesh Rana
 
-### Full-Stack Developer · Laravel · Next.js · Business Systems
+### Full-Stack Developer · Laravel · Next.js · React · TypeScript
 
-*Building secure, reliable web applications for real business operations.*
+Building practical, reliable, and maintainable web applications for real-world business needs.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sandesh11.com.np-000000?style=flat&logo=vercel&logoColor=white)](https://www.sandesh11.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandesh_Rana-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-rana-dev/)
@@ -16,65 +16,100 @@
 
 ## About Me
 
-I'm a Full-Stack Developer at **Webpal**, focused on building practical web applications and operational business systems.
+I am a Full-Stack Developer focused on building practical web applications and business systems.
 
-I work across backend development, responsive interfaces, database design, REST API integration, debugging, testing, and application maintenance.
+I work with Laravel, PHP, Next.js, React, TypeScript, SQL databases, REST APIs, and Tailwind CSS.
 
-I enjoy building software that supports real workflows:
+I enjoy transforming real business requirements into secure, accessible, and maintainable software.
 
-- 🏢 ERP and business administration systems
-- 🛒 Retail POS, sales, and inventory applications
-- 📦 Purchasing, warehouse, and supplier workflows
-- 🏭 Manufacturing and production management
-- 🏨 Hotel booking and guest-service platforms
-- 🌐 Marketplace and multi-role web applications
+My development interests include:
 
-Currently, I am strengthening my experience in scalable Laravel applications, modern Next.js interfaces, database-driven workflows, testing, accessibility, and deployment.
+- ERP and business management systems
+- Retail POS and inventory applications
+- Hotel booking and guest-service platforms
+- Marketplace and multi-role applications
+- Purchasing, sales, and warehouse workflows
+- Responsive and accessible user interfaces
+- Database-driven application architecture
+
+I am continuously improving my knowledge of application architecture, testing, security, performance, accessibility, and deployment.
 
 ---
 
-## Featured Projects
+## What I Build
 
-### 🏨 [Hotel Booking & Guest Services Frontend](https://github.com/Sarkar4000/hotel_website_frontend)
+### Business Systems
 
-> Responsive frontend experience for hotel discovery, reservations, and guest services.
+Applications that support daily operations such as inventory, purchasing, sales, production, reporting, and administration.
 
-Built a modern hotel website featuring room discovery, accommodation details, reservation interfaces, experience packages, galleries, dining information, and guest-service pages.
+### Full-Stack Web Applications
+
+Responsive applications with structured backend logic, database integration, authentication, validation, and user-friendly interfaces.
+
+### Role-Based Platforms
+
+Systems designed for administrators, managers, staff members, sellers, customers, and other user roles.
+
+### APIs and Integrations
+
+REST API development and integration for connecting frontend applications, backend services, and third-party tools.
+
+---
+
+## Featured Work
+
+### Hotel Booking & Guest Services Platform
+
+A responsive hotel platform designed around accommodation discovery, room details, booking workflows, experience packages, and guest services.
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Responsive Design`
 
 ---
 
-### ♻️ [ReHub Community Marketplace](https://github.com/Sarkar4000/local-product)
+### ReHub Community Marketplace
 
-> Role-based marketplace connecting customers, sellers, and administrators.
+A marketplace platform designed around product listings, customer accounts, seller workflows, orders, moderation, and administration.
 
-Developed marketplace workflows for product listings, buyer and seller accounts, carts, orders, moderation, administration, and customer-support processes.
-
-`Laravel` `PHP` `MySQL` `REST API` `Role-Based Access`
+`Laravel` `PHP` `MySQL` `REST APIs` `Role-Based Access`
 
 ---
 
-### 🌐 [Developer Portfolio](https://www.sandesh11.com.np)
+### Retail POS & Inventory System
 
-> Personal portfolio presenting my experience, projects, and full-stack development work.
+A business application focused on product management, sales transactions, stock tracking, purchasing, suppliers, and operational reporting.
 
-Built with responsive layouts, project showcases, animated interactions, accessible navigation, and a working contact system.
+`Laravel` `PHP` `MySQL` `Tailwind CSS` `Business Workflows`
+
+---
+
+### Manufacturing Workflow ERP
+
+An ERP system designed around purchasing, raw materials, production processes, inventory movement, sales, and management reporting.
+
+`Laravel` `PHP` `SQL` `ERP Workflows` `Role-Based Access`
+
+---
+
+### Developer Portfolio
+
+My personal portfolio presenting selected projects, technical skills, development experience, and contact information.
+
+[View Portfolio](https://www.sandesh11.com.np)
 
 `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Resend`
 
 ---
 
-## Tech Stack
+## Technology Stack
 
-**Languages**
+### Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Frontend**
+### Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -82,29 +117,30 @@ Built with responsive layouts, project showcases, animated interactions, accessi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Backend and Databases**
+### Backend and Databases
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Tools and Platforms**
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-![Sandesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarkar4000&show_icons=true&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Sarkar4000&show_icons=true&theme=github_dark&hide_border=true" alt="Sandesh Rana's GitHub statistics" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkar4000&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkar4000&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 
 </div>
 
