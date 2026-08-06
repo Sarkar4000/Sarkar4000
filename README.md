@@ -46,14 +46,6 @@ A responsive hotel platform designed around accommodation discovery, room detail
 
 ---
 
-### ReHub Community Marketplace
-
-A marketplace platform designed around product listings, customer accounts, seller workflows, orders, moderation, and administration.
-
-`Laravel` `PHP` `MySQL` `REST APIs` `Role-Based Access`
-
----
-
 ### Retail POS & Inventory System
 
 A business application focused on product management, sales transactions, stock tracking, purchasing, suppliers, and operational reporting.
@@ -67,16 +59,6 @@ A business application focused on product management, sales transactions, stock 
 An ERP system designed around purchasing, raw materials, production processes, inventory movement, sales, and management reporting.
 
 `Laravel` `PHP` `SQL` `ERP Workflows` `Role-Based Access`
-
----
-
-### Developer Portfolio
-
-My personal portfolio presenting selected projects, technical skills, development experience, and contact information.
-
-[View Portfolio](https://www.sandesh11.com.np)
-
-`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Resend`
 
 ---
 
