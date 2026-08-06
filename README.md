@@ -36,26 +36,6 @@ I am continuously improving my knowledge of application architecture, testing, s
 
 ---
 
-## What I Build
-
-### Business Systems
-
-Applications that support daily operations such as inventory, purchasing, sales, production, reporting, and administration.
-
-### Full-Stack Web Applications
-
-Responsive applications with structured backend logic, database integration, authentication, validation, and user-friendly interfaces.
-
-### Role-Based Platforms
-
-Systems designed for administrators, managers, staff members, sellers, customers, and other user roles.
-
-### APIs and Integrations
-
-REST API development and integration for connecting frontend applications, backend services, and third-party tools.
-
----
-
 ## Featured Work
 
 ### Hotel Booking & Guest Services Platform
