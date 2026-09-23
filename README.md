@@ -13,52 +13,82 @@ Turning real-world problems into practical, reliable software.
 </div>
 
 ---
-
 ## About Me
 
-I am a Full-Stack Developer focused on building practical web applications and business systems.
+I'm a Full-Stack Developer who enjoys turning real problems into useful and reliable software.
 
-I work with Laravel, PHP, Next.js, React, TypeScript, SQL databases, REST APIs, and Tailwind CSS.
+I work across frontend and backend using Laravel, PHP, Next.js, React, TypeScript, PostgreSQL, MySQL and REST APIs.
 
-I enjoy transforming real business requirements into secure, accessible, and maintainable software.
+Over time, I've worked on business systems, SaaS products, news platforms, tourism websites and other full-stack applications. I enjoy understanding how a business works first, then building software around the actual problem instead of just writing code.
 
-My development interests include:
+Recently, I've also been exploring AI-assisted software development and building **Support AI**, a project focused on making the way developers work with AI coding agents more structured, reviewable and reliable.
 
-- ERP and business management systems
-- Retail POS and inventory applications
-- Hotel booking and guest-service platforms
-- Marketplace and multi-role applications
-- Purchasing, sales, and warehouse workflows
-- Responsive and accessible user interfaces
-- Database-driven application architecture
+Right now, I'm focused on improving my skills in full-stack engineering, system architecture, DevOps, SaaS development and AI-assisted development.
 
-I am continuously improving my knowledge of application architecture, testing, security, performance, accessibility, and deployment.
+---
+
+## Currently Building
+
+### Support AI — AI Development Workflow OS
+
+Support AI started from a simple question:  
+**How can AI coding agents become part of a proper software development workflow instead of just generating code?**
+
+I'm building it as a system that helps manage the work around coding agents, including project context, research, reasoning, planning, review, approval, project memory and execution.
+
+`Understand → Research → Plan → Review → Approve → Execute`
+
+**Focus:** AI Workflows · System Architecture · Project Memory · Human Approval · Coding Agents
 
 ---
 
 ## Featured Work
 
+### The Public Today
+
+A full-stack digital news platform built to manage and publish news content through a clean, responsive and structured experience.
+
+I worked across both the frontend and backend, including news categories, search, trending content, APIs, article pages and content management workflows.
+
+**Tech:** React · TypeScript · Laravel · PostgreSQL · REST API
+
+---
+
+### Tiger Track Resort Nepal
+
+A modern resort and tourism website built to present accommodation, experiences, packages and information about Tiger Track Resort.
+
+The project focused on creating a clean user experience while making the website responsive and easy to navigate across different devices.
+
+**Tech:** Full-Stack Development · React · TypeScript · Laravel · MySQL
+
+---
+
 ### Hotel Booking & Guest Services Platform
 
-A responsive hotel platform designed around accommodation discovery, room details, booking workflows, experience packages, and guest services.
+A responsive hotel platform designed around accommodation discovery, room information, booking workflows, experience packages and guest services.
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Responsive Design`
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · Responsive Design
 
 ---
 
 ### Retail POS & Inventory System
 
-A business application focused on product management, sales transactions, stock tracking, purchasing, suppliers, and operational reporting.
+A business application built around product management, sales, purchasing, suppliers, inventory tracking and operational reporting.
 
-`Laravel` `PHP` `MySQL` `Tailwind CSS` `Business Workflows`
+The system is designed to support day-to-day retail operations through a centralized workflow.
+
+**Tech:** Laravel · PHP · MySQL · Tailwind CSS · Business Workflows
 
 ---
 
 ### Manufacturing Workflow ERP
 
-An ERP system designed around purchasing, raw materials, production processes, inventory movement, sales, and management reporting.
+An ERP-style system designed around purchasing, raw materials, production processes, inventory movement, sales and management reporting.
 
-`Laravel` `PHP` `SQL` `ERP Workflows` `Role-Based Access`
+The project focuses on connecting different business operations into one structured workflow.
+
+**Tech:** Laravel · PHP · SQL · ERP Workflows · Role-Based Access
 
 ---
 
