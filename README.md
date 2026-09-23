@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  I build practical web applications, business systems and SaaS products — from database design and APIs to responsive interfaces and deployment.
+  I build practical web applications, business systems and SaaS products — from databases and APIs to responsive interfaces and deployment.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ I've worked on SaaS products, business systems, news platforms, e-commerce proje
 <table>
   <tr>
     <td><strong>💼 Current</strong></td>
-    <td>Full-Stack Development</td>
+    <td>Full-Stack Developer at Twozero Labs</td>
   </tr>
   <tr>
     <td><strong>🧠 Building</strong></td>
@@ -67,7 +67,7 @@ What I enjoy most is taking a real problem, understanding how it works, and turn
 
 Support AI started from my own experience working with AI coding tools.
 
-I realized that generating code is only one part of development. A good project still needs proper context, research, planning, review and clear decisions.
+I realized that generating code is only one part of development. A good project still needs proper context, planning, review and clear decisions.
 
 I'm building Support AI to explore a better way of bringing those parts together while keeping the developer in control.
 
@@ -107,6 +107,7 @@ I'm building Support AI to explore a better way of bringing those parts together
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
@@ -116,12 +117,13 @@ I'm building Support AI to explore a better way of bringing those parts together
 
 | Project | What I Built | Tech |
 |---|---|---|
-| **Support AI** | AI-assisted development workflow project focused on bringing better structure to planning, review and working with coding agents. | AI Workflows · System Architecture · PostgreSQL |
+| **Support AI** | AI-assisted development project exploring a more structured way to work with coding agents while keeping developers involved in planning and review. | AI Workflows · System Architecture · PostgreSQL |
 | **Twozero** | SaaS platform focused on connecting business operations, workflows and day-to-day work in one system. | Next.js · React · TypeScript · Laravel · SQL |
-| **The Public Today** | Full-stack digital news platform with categories, search, trending content, media sections, article management and APIs. | React · TypeScript · Laravel · PostgreSQL |
-| **Tiger Track Resort Nepal** | Resort and tourism platform for presenting accommodation, packages, experiences and resort information through a responsive interface. | React · TypeScript · Laravel · MySQL |
+| **The Public Today** | Full-stack digital news platform with categories, search, trending content, article management, media sections and APIs. | React · TypeScript · Laravel · PostgreSQL |
+| **Tiger Track Resort Nepal** | Resort and tourism platform for accommodation, packages, experiences and resort information through a responsive interface. | React · TypeScript · Laravel · MySQL |
 | **Bravo Digital World** | Full-stack TV e-commerce platform with products, customer accounts, COD checkout, orders, warranty registration and admin workflows. | Laravel · PHP · MySQL · Blade · JavaScript |
-| **Retail POS & Inventory System** | Business system for products, sales, purchasing, suppliers, stock movement and operational reporting. | Laravel · PHP · MySQL · Tailwind CSS |
+| **Hotel Booking & Guest Services** | Responsive hotel platform for accommodation discovery, room information, booking flows, packages and guest services. | Next.js · React · TypeScript · Tailwind CSS |
+| **Retail POS & Inventory System** | Business system for products, sales, purchasing, suppliers, inventory tracking and operational reporting. | Laravel · PHP · MySQL · Tailwind CSS |
 | **Manufacturing Workflow ERP** | ERP-style system connecting purchasing, raw materials, production, inventory, sales and reporting workflows. | Laravel · PHP · SQL · RBAC |
 
 ---
@@ -130,9 +132,10 @@ I'm building Support AI to explore a better way of bringing those parts together
 
 ### Twozero Labs
 
-**Full-Stack Developer**
+**Full-Stack Developer**  
+**May 2026 – Present**
 
-Working across frontend, backend and business workflows while building and improving production web applications and SaaS features.
+Building and improving production web applications and SaaS features across frontend, backend, APIs, databases and business workflows.
 
 `Next.js` · `React` · `TypeScript` · `Laravel` · `REST APIs` · `SQL`
 
@@ -140,19 +143,21 @@ Working across frontend, backend and business workflows while building and impro
 
 ### WebPal
 
-**Software Engineer / Developer**
+**Software Engineer · Freelance**  
+**Jan 2026 – Jul 2026**
 
-Worked on web applications, frontend and backend development, API integrations, databases and production-focused features.
+Worked across frontend and backend development, API integrations, databases, debugging and production-focused web application features.
 
-`Laravel` · `PHP` · `React` · `Next.js` · `MySQL`
+`Laravel` · `PHP` · `React` · `Next.js` · `MySQL` · `REST APIs`
 
 ---
 
 ### Cyberium Technology Pvt. Ltd.
 
-**Software Developer**
+**Software Developer**  
+**2024 – 2025**
 
-Worked on application features, database-driven workflows, debugging, implementation and practical software development for business requirements.
+Worked on application features, database-driven workflows, debugging, implementation and software solutions based on real business requirements.
 
 `Laravel` · `PHP` · `JavaScript` · `MySQL`
 
