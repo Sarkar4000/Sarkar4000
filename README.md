@@ -36,15 +36,25 @@ Right now, I'm focused on growing in **full-stack engineering, system architectu
 
 ### Support AI — AI Development Workflow OS
 
-Currently building **Support AI**, a project focused on making AI-assisted software development more structured, practical and reliable.
+I'm currently building **Support AI** because I wanted a better way to work with AI coding agents.
+
+While using tools like Codex and Antigravity, I noticed that writing code is only one part of development. A good project also needs proper context, research, planning, review and clear decisions before implementation.
+
+Support AI is my attempt to bring those parts together into one more structured workflow, while still keeping the developer in control.
+
+It's also a project where I'm learning more about AI workflows, system architecture, project memory and how AI can fit naturally into real software development.
 
 ---
 
 ## Selected Projects
 
+## Selected Projects
+
 ### Twozero
 
-A SaaS platform focused on bringing business operations into one connected workspace.
+A SaaS platform designed to bring business operations into one connected workspace.
+
+I worked on building and improving different parts of the platform, including business workflows, dashboards, frontend interfaces, API integrations and overall user experience. The project focuses on helping businesses manage their daily operations from one system.
 
 **Tech:** Next.js · React · TypeScript · Laravel · REST APIs · SQL
 
@@ -52,9 +62,11 @@ A SaaS platform focused on bringing business operations into one connected works
 
 ### The Public Today
 
-A full-stack digital news platform built for publishing and managing news through a clean and responsive experience.
+A full-stack digital news platform built for publishing, organizing and managing news content through a clean and responsive experience.
 
-I worked across frontend and backend features including categories, search, trending content, article pages, APIs and content workflows.
+I worked across both frontend and backend development, including categories, article pages, province-based content, search, trending posts, media sections and API integration.
+
+The backend was built to support structured content management while the frontend focused on fast navigation and a simple reading experience.
 
 **Tech:** React · TypeScript · Laravel · PostgreSQL · REST API
 
@@ -62,19 +74,23 @@ I worked across frontend and backend features including categories, search, tren
 
 ### Tiger Track Resort Nepal
 
-A modern resort and tourism website built to present accommodation, experiences, packages and resort information.
+A modern resort and tourism website built to showcase accommodation, experiences, packages and information about Tiger Track Resort Nepal.
 
-The project focused on creating a simple, responsive and easy-to-navigate experience.
+I worked on creating a responsive and visually clean website with sections for rooms, resort information, packages and guest experiences.
 
-**Tech:** React · TypeScript · Laravel · MySQL
+The main focus was making the website easy to explore while presenting the resort in a professional and engaging way across desktop and mobile devices.
+
+**Tech:** React · TypeScript · Laravel · MySQL · Responsive Design
 
 ---
 
 ### Bravo Digital World
 
-A full-stack e-commerce platform focused on television retail.
+A full-stack e-commerce system built for a television retail business.
 
-The system includes product management, customer accounts, checkout, orders, product registration, warranty workflows and admin management.
+The platform includes product management, customer registration and login, checkout, cash-on-delivery orders, customer order history, product registration, warranty workflows and admin management.
+
+I worked across both the customer-facing store and backend business operations to keep the system practical and easy to manage.
 
 **Tech:** Laravel · PHP · MySQL · Blade · JavaScript · Bootstrap
 
@@ -82,7 +98,11 @@ The system includes product management, customer accounts, checkout, orders, pro
 
 ### Hotel Booking & Guest Services Platform
 
-A responsive hotel platform built around accommodation discovery, room information, booking workflows, experiences and guest services.
+A hotel and guest-service platform built around accommodation discovery, room information, booking flows, packages and guest experiences.
+
+I focused on creating a clean and responsive interface that allows users to explore rooms, services and hotel information easily.
+
+The project also helped me work more deeply with reusable frontend components, responsive layouts and structured booking experiences.
 
 **Tech:** Next.js · React · TypeScript · Tailwind CSS
 
@@ -90,18 +110,25 @@ A responsive hotel platform built around accommodation discovery, room informati
 
 ### Retail POS & Inventory System
 
-A business application built around products, sales, purchasing, suppliers, inventory tracking and operational reporting.
+A business management system built to support day-to-day retail operations.
 
-**Tech:** Laravel · PHP · MySQL · Tailwind CSS
+The system covers product management, sales transactions, purchasing, suppliers, stock tracking and operational reporting.
+
+It was designed around real business workflows so inventory, sales and purchasing information can stay connected in one place.
+
+**Tech:** Laravel · PHP · MySQL · Tailwind CSS · Business Workflows
 
 ---
 
 ### Manufacturing Workflow ERP
 
-An ERP-style system designed around purchasing, raw materials, production, inventory, sales and management reporting.
+An ERP-style business system designed around manufacturing and operational workflows.
 
-**Tech:** Laravel · PHP · SQL · Role-Based Access
+The system connects purchasing, raw materials, production processes, inventory movement, sales and reporting while supporting role-based access for different users.
 
+The main goal was to organize multiple business processes into one structured and manageable system.
+
+**Tech:** Laravel · PHP · SQL · ERP Workflows · Role-Based Access
 ---
 
 ## Technology Stack
