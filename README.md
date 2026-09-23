@@ -121,7 +121,6 @@ I'm building Support AI to explore a better way of bringing those parts together
 | **Twozero** | SaaS platform focused on connecting business operations, workflows and day-to-day work in one system. | Next.js · React · TypeScript · Laravel · SQL |
 | **The Public Today** | Full-stack digital news platform with categories, search, trending content, article management, media sections and APIs. | React · TypeScript · Laravel · PostgreSQL |
 | **Tiger Track Resort Nepal** | Resort and tourism platform for accommodation, packages, experiences and resort information through a responsive interface. | React · TypeScript · Laravel · MySQL |
-| **Bravo Digital World** | Full-stack TV e-commerce platform with products, customer accounts, COD checkout, orders, warranty registration and admin workflows. | Laravel · PHP · MySQL · Blade · JavaScript |
 | **Hotel Booking & Guest Services** | Responsive hotel platform for accommodation discovery, room information, booking flows, packages and guest services. | Next.js · React · TypeScript · Tailwind CSS |
 | **Retail POS & Inventory System** | Business system for products, sales, purchasing, suppliers, inventory tracking and operational reporting. | Laravel · PHP · MySQL · Tailwind CSS |
 | **Manufacturing Workflow ERP** | ERP-style system connecting purchasing, raw materials, production, inventory, sales and reporting workflows. | Laravel · PHP · SQL · RBAC |
