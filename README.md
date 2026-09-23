@@ -125,9 +125,9 @@ An ERP-style business system designed around manufacturing and operational workf
 
 The system connects purchasing, raw materials, production processes, inventory movement, sales and reporting while supporting role-based access for different users.
 
-The main goal was to organize multiple business processes into one structured and manageable system.
+The main goal was to organize multiple business processes into one structured and manageable system. Laravel · PHP · SQL · ERP Workflows · Role-Based Access
+**Tech:**  Laravel · PHP · SQL · ERP Workflows · Role-Based Access
 
-**Tech:** Laravel · PHP · SQL · ERP Workflows · Role-Based Access
 ---
 
 ## Technology Stack
