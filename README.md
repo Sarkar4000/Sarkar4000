@@ -2,7 +2,7 @@
 
 # Sandesh Rana
 
-### Full-Stack Developer building SaaS, business systems & AI-assisted developer workflows.
+### Full-Stack Developer building SaaS, business systems & AI-assisted development workflows.
 
 Building practical, reliable, and maintainable web applications for real-world business needs.
 
