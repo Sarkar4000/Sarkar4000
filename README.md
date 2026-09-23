@@ -91,30 +91,6 @@ The project focuses on connecting different business operations into one structu
 **Tech:** Laravel · PHP · SQL · ERP Workflows · Role-Based Access
 
 ---
-## Technology Stack
-
-### Languages
-PHP · TypeScript · JavaScript · SQL
-
-### Frontend
-Next.js · React · Tailwind CSS · HTML5 · CSS3
-
-### Backend
-Laravel · REST APIs
-
-### Databases
-PostgreSQL · MySQL
-
-### DevOps & Deployment
-Docker · AWS · Vercel
-
-### Developer Tools
-Git · GitHub · VS Code · Postman · Composer · npm
-
-### Currently Exploring
-AI-assisted Development · AI Agent Workflows · System Architecture · Project Memory
-
----
 
 ## Technology Stack
 
