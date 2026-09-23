@@ -2,9 +2,9 @@
 
 # Sandesh Rana
 
-### Full-Stack Developer building SaaS, business systems & AI-assisted development workflows.
+### Full-Stack Developer building SaaS, business systems & AI-assisted workflows.
 
-Building practical, reliable, and maintainable web applications for real-world business needs.
+Turning real-world problems into practical, reliable software.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sandesh11.com.np-000000?style=flat&logo=vercel&logoColor=white)](https://www.sandesh11.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandesh_Rana-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-rana-dev/)
