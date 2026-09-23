@@ -46,7 +46,6 @@ It's also a project where I'm learning more about AI workflows, system architect
 
 ---
 
-## Selected Projects
 
 ## Selected Projects
 
