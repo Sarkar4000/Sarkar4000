@@ -24,11 +24,11 @@ I'm a Full-Stack Developer who enjoys turning real problems into useful and reli
 
 I work across frontend and backend using **Laravel, PHP, Next.js, React, TypeScript, PostgreSQL, MySQL and REST APIs**.
 
-Over time, I've worked on SaaS products, business systems, news platforms, tourism websites and other full-stack applications. I enjoy understanding how a business works first, then building software around the actual problem instead of just writing code.
+Over time, I've worked on SaaS products, business systems, news platforms, e-commerce platforms and tourism websites. I enjoy understanding the actual problem first, then building software around it.
 
-Recently, I've also been exploring AI-assisted software development and building **Support AI**, a project focused on making the way developers work with AI coding agents more structured, reviewable and reliable.
+Recently, I've also been exploring AI-assisted development and how AI can fit naturally into modern software workflows.
 
-Right now, I'm focused on growing in **full-stack engineering, system architecture, DevOps, SaaS development and AI-assisted development**.
+Right now, I'm focused on improving in **full-stack engineering, system architecture, DevOps, SaaS and AI-assisted development**.
 
 ---
 
@@ -36,28 +36,7 @@ Right now, I'm focused on growing in **full-stack engineering, system architectu
 
 ### Support AI — AI Development Workflow OS
 
-Support AI started from a simple question:
-
-**How can coding agents become part of a proper software development workflow, not just generate code?**
-
-I'm building Support AI as a system that manages the work around coding agents — from understanding a project to research, reasoning, planning, review, approval and execution.
-
-**Workflow**
-
-`Understand → Research → Plan → Review → Approve → Execute`
-
-The project explores:
-
-- Project context and memory
-- AI agent orchestration
-- Research and reasoning
-- Architecture and planning
-- QA and review
-- Human approval gates
-- Structured execution briefs
-- Coding-agent workflows
-
-**Focus:** AI Workflows · System Architecture · Project Memory · Human-in-the-Loop · Coding Agents
+Currently building **Support AI**, a project focused on making AI-assisted software development more structured, practical and reliable.
 
 ---
 
@@ -67,15 +46,13 @@ The project explores:
 
 A SaaS platform focused on bringing business operations into one connected workspace.
 
-My work includes full-stack development across business workflows, frontend experiences, APIs and product features.
-
 **Tech:** Next.js · React · TypeScript · Laravel · REST APIs · SQL
 
 ---
 
 ### The Public Today
 
-A full-stack digital news platform built to manage and publish news through a clean, responsive and structured experience.
+A full-stack digital news platform built for publishing and managing news through a clean and responsive experience.
 
 I worked across frontend and backend features including categories, search, trending content, article pages, APIs and content workflows.
 
@@ -85,11 +62,11 @@ I worked across frontend and backend features including categories, search, tren
 
 ### Tiger Track Resort Nepal
 
-A modern resort and tourism website built to present accommodation, experiences, packages and information about Tiger Track Resort.
+A modern resort and tourism website built to present accommodation, experiences, packages and resort information.
 
-The project focused on creating a clean and responsive experience that is simple to navigate across different devices.
+The project focused on creating a simple, responsive and easy-to-navigate experience.
 
-**Tech:** React · TypeScript · Laravel · MySQL · Full-Stack Development
+**Tech:** React · TypeScript · Laravel · MySQL
 
 ---
 
@@ -97,7 +74,7 @@ The project focused on creating a clean and responsive experience that is simple
 
 A full-stack e-commerce platform focused on television retail.
 
-The system includes product management, customer accounts, checkout, order management, product registration, warranty workflows and admin management.
+The system includes product management, customer accounts, checkout, orders, product registration, warranty workflows and admin management.
 
 **Tech:** Laravel · PHP · MySQL · Blade · JavaScript · Bootstrap
 
@@ -105,29 +82,25 @@ The system includes product management, customer accounts, checkout, order manag
 
 ### Hotel Booking & Guest Services Platform
 
-A responsive hotel platform designed around accommodation discovery, room information, booking workflows, experience packages and guest services.
+A responsive hotel platform built around accommodation discovery, room information, booking workflows, experiences and guest services.
 
-**Tech:** Next.js · React · TypeScript · Tailwind CSS · Responsive Design
+**Tech:** Next.js · React · TypeScript · Tailwind CSS
 
 ---
 
 ### Retail POS & Inventory System
 
-A business application built around product management, sales, purchasing, suppliers, stock tracking and operational reporting.
+A business application built around products, sales, purchasing, suppliers, inventory tracking and operational reporting.
 
-The system is designed to support day-to-day retail operations through one centralized workflow.
-
-**Tech:** Laravel · PHP · MySQL · Tailwind CSS · Business Workflows
+**Tech:** Laravel · PHP · MySQL · Tailwind CSS
 
 ---
 
 ### Manufacturing Workflow ERP
 
-An ERP-style system designed around purchasing, raw materials, production processes, inventory movement, sales and management reporting.
+An ERP-style system designed around purchasing, raw materials, production, inventory, sales and management reporting.
 
-The project focuses on connecting different business operations into one structured workflow.
-
-**Tech:** Laravel · PHP · SQL · ERP Workflows · Role-Based Access
+**Tech:** Laravel · PHP · SQL · Role-Based Access
 
 ---
 
