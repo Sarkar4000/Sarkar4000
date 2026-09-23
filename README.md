@@ -2,7 +2,7 @@
 
 # Sandesh Rana
 
-### Full-Stack Developer · Laravel · Next.js · React · TypeScript
+### Full-Stack Developer building SaaS, business systems & AI-assisted developer workflows.
 
 Building practical, reliable, and maintainable web applications for real-world business needs.
 
